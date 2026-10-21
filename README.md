@@ -1,8 +1,5 @@
 # Telco-Customer-Churn-Analysis
 
-## Pdf Link
-[View Jupyter Notebook](file:///C:/Users/pande/OneDrive/Documents/Data%20Analytics/Telco%20Customer%20Churn.pdf)
-
 
 Data Analyst Project Report
 
